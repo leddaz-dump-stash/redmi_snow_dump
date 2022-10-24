@@ -1,0 +1,15 @@
+# 原本的目的是列举一些system server可修改的ro开头的系统属性
+# 现在扩展了用法，可以用于预置系统属性，但对于非常规的系统属性，现在只支持预置ro开头的系统属性
+# 格式:property_name=property_value
+# 可以只写属性名，这样系统不会自行设置，如果属性名以ro开头，此属性仍支持可修改，目前不支持import
+ro.miui.region
+ro.miui.cust_variant
+persist.sys.timezone
+ro.product.locale.language
+ro.product.locale.region
+ro.miui.mcc
+ro.miui.mnc
+ro.vendor.miui.region
+ro.vendor.miui.mcc
+ro.vendor.miui.mnc
+ro.vendor.miui.cust_variant

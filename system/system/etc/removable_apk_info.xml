@@ -1,0 +1,13 @@
+<string-array name="removable_apk_list">
+    <item>com.go.browser</item>
+    <item>com.miui.android.fashiongallery</item>
+    <item>com.miui.calculator.go</item>
+    <item>com.xiaomi.midrop</item>
+</string-array>
+
+<string-array name="removable_apk_path_list">
+    <item>/system/data-app/MiBrowserLiteR/MiBrowserLiteR.apk</item>
+    <item>/system/data-app/MiGalleryLockScreenGlobalGO/MiGalleryLockScreenGlobalGO.apk</item>
+    <item>/system/data-app/CalculatorGo/CalculatorGo.apk</item>
+    <item>/system/data-app/MIDropGo/MIDropGo.apk</item>
+</string-array>
