@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+
+<displayConfiguration>
+    <!-- Global Brightness-Nit mapping -->
+    <screenBrightnessMap>
+        <point>
+            <value>0.003421309</value>
+            <nits>1.5</nits>
+        </point>
+        <point>
+            <value>1.0</value>
+            <nits>400.0</nits>
+        </point>
+    </screenBrightnessMap>
+</displayConfiguration>
